@@ -1,4 +1,3 @@
-```tsx
 export default function Home() {
   return (
     <main className="bg-white text-slate-900 overflow-hidden">
@@ -300,4 +299,3 @@ export default function Home() {
     </main>
   );
 }
-```
